@@ -1,0 +1,2 @@
+# Workspace identity
+@AGENTS.md
